@@ -111,3 +111,9 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+
+#ICP备案信息尾部显示
+icp:
+  enable: true
+  url: 'https://beian.miit.gov.cn/#/Integrated/index' # 备案链接
+  text: '豫ICP备19030217号-1' # 备案信息
